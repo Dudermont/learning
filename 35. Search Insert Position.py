@@ -16,6 +16,3 @@ def search(nums, target):
         else:
             start = midl + 1
     return 0
-
-
-print(search([1, 3], 0))
